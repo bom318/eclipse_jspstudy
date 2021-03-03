@@ -14,5 +14,6 @@
 	System.out.println("str : "+str);//디버깅할때 사용하는 방법
 	out.println("<h1>"+"str : "+str+"</h1>");//웹에 출력.자바스크립트의 document.write()와 동일.
 	%>
+	<%=str%>
 </body>
 </html>
